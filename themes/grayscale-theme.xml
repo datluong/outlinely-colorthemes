@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>Grayscale</name>
+    <type>light</type>
+    <background-color>#FFFFFF</background-color>
+    <highlight-background-color>#E6D29C</highlight-background-color>
+    <text-color>#101010</text-color>
+    <selected-text-color>#4F5B66</selected-text-color>
+    <selection-color>#E6E6E6</selection-color>
+    <accent-color-one>#A0A0A0</accent-color-one>
+    <accent-color-two>#A0A0A0</accent-color-two>
+    <note-color>#7C7C7C</note-color>
+    <caret-color>#252525</caret-color>
+    <guide-color>#DFE1E8</guide-color>
+    <expander-color>#4F5B66</expander-color>
+    <markup-color>#A0A0A0</markup-color>
+</theme>
+

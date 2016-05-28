@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>Base16 Ocean</name>
+    <type>light</type>
+    <background-color>#EFF1F5</background-color>
+    <highlight-background-color>#EBD78A</highlight-background-color>
+    <text-color>#4F5B66</text-color>
+    <selected-text-color>#4F5B66</selected-text-color>
+    <selection-color>#DFE1E8</selection-color>
+    <accent-color-one>#A3BE8C</accent-color-one>
+    <accent-color-two>#B48EAD</accent-color-two>
+    <note-color>#A7ADBA</note-color>
+    <caret-color>#4F5B66</caret-color>
+    <guide-color>#DFE1E8</guide-color>
+    <expander-color>#4F5B66</expander-color>
+    <markup-color>#A7ADBA</markup-color>
+    <checkmark-color>#65737E</checkmark-color>
+    <highlighting-rule>
+        <tags>important, high</tags>
+        <highlight-tag-color>#D08770</highlight-tag-color>
+    </highlighting-rule>
+    <highlighting-rule>
+        <tags>@urgent</tags>
+        <highlight-tag-color>#BF616A</highlight-tag-color>
+        <highlight-text-color>#BF616A</highlight-text-color>
+    </highlighting-rule>
+</theme>

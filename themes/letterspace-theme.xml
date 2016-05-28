@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>Letterspace</name>
+    <type>light</type>
+    <background-color>#fbfbfb</background-color>
+    <text-color>#464646</text-color>
+    <selected-text-color>#000000</selected-text-color>
+    <selection-color>#daeff2</selection-color>
+    <accent-color-one>#12b0cc</accent-color-one>
+    <accent-color-two>#12b0cc</accent-color-two>
+    <note-color>gray</note-color>
+    <caret-color>#4bb3d1</caret-color>
+    <guide-color>#daeff2</guide-color>
+    <expander-color>#12b0cc</expander-color>
+    <markup-color>#12b0cc</markup-color>
+    <checkmark-color>#12b0cc</checkmark-color>
+</theme>

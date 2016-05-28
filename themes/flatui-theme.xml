@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>Flat UI</name>
+    <type>light</type>
+    <background-color>#FFFFFF</background-color>
+    <highlight-background-color>#F5DC7A</highlight-background-color>
+    <text-color>#34495E</text-color>
+    <selection-color>#F1C40F</selection-color>
+    <accent-color-one>#2980B9</accent-color-one>
+    <accent-color-two>#27AE60</accent-color-two>
+    <note-color>#7F8C8D</note-color>
+    <caret-color>#E67E22</caret-color>
+    <guide-color>#ECF0F1</guide-color>
+    <expander-color>#7F8C8D</expander-color>
+    <markup-color>#95A5A6</markup-color>
+    <checkmark-color>#7F8C8D</checkmark-color>
+    <highlighting-rule>
+        <tags>important, high</tags>
+        <highlight-tag-color>#C0392B</highlight-tag-color>
+    </highlighting-rule>
+</theme>
+
