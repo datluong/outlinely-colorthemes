@@ -3,28 +3,28 @@
     "Name": "Base16 Ocean",
     "File": "base16-ocean-theme.xml",
     "Description": "Based on Base16 Ocean color scheme",
-    "Source:": "https://github.com/datluong/outlinely-colorthemes",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
   },
   {
     "Name": "Flat UI",
     "File": "flatui-theme.xml",
     "Description": "A vibrant theme based on FlatUI color scheme https://flatuicolors.com",
-    "Source:": "https://github.com/datluong/outlinely-colorthemes",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
   },
   {
     "Name": "Grayscale",
     "File": "grayscale-theme.xml",
     "Description": "Simple grayscale theme",
-    "Source:": "https://github.com/datluong/outlinely-colorthemes",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
   },
   {
     "Name": "Letterspace",
     "File": "letterspace-theme.xml",
     "Description": "Cyan on white background. Inspired by Letterspace app",
-    "Source:": "https://github.com/datluong/outlinely-colorthemes",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
   }
 ]
