@@ -1,6 +1,6 @@
-# Custom Themes for Outlinely
+# Themes for Outlinely
 
-Collection of themes for Outlinely.
+This repository hosts some nice custom themes for [Outlinely](http://glamdevelopment.com/outlinely)
 
 ## List of themes:
 
