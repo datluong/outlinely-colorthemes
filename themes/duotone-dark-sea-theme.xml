@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>DuoTone Dark Sea</name>
+    <type>dark</type>
+    <background-color>#1D262F</background-color>
+    <highlight-background-color>#346957</highlight-background-color>
+    <text-color>#91C1F8</text-color>
+    <selection-color>#344455</selection-color>
+    <accent-color-one>#D6E9FF</accent-color-one>
+    <accent-color-two>#22D398</accent-color-two>
+    <note-color>#55606D</note-color>
+    <caret-color>#52FFC5</caret-color>
+    <guide-color>#303F4F</guide-color>
+    <expander-color>#55606D</expander-color>
+    <markup-color>#55606D</markup-color>
+    <checkmark-color>#22D398</checkmark-color>
+</theme>
+
+
