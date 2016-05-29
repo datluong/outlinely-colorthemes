@@ -28,6 +28,13 @@
     "Author": "Dat Luong"
   },
   {
+    "Name": "Workflowy",
+    "File": "workflowy-theme.xml",
+    "Description": "A theme that mimics the look and feel of Workflowy",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
+    "Author": "Dat Luong"
+  },
+  {
     "Name": "DuoTone Dark",
     "File": "duotone-dark-theme.xml",
     "Description": "A port of DuoTone-dark theme for Atom editor",

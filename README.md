@@ -8,4 +8,5 @@ This repository hosts some nice themes for [Outlinely](http://glamdevelopment.co
   - [Flat UI](http://glamdevelopment.com/outlinely/themes/flat-ui)
   - [Grayscale](http://glamdevelopment.com/outlinely/themes/grayscale)
   - [Letterspace](http://glamdevelopment.com/outlinely/themes/letterspace)
+  - [Workflowy](http://glamdevelopment.com/outlinely/themes)
   - [DuoTone Dark](http://glamdevelopment.com/outlinely/themes/duotone-dark)
