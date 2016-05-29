@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>DuoTone Dark</name>
+    <type>dark</type>
+    <background-color>#2A2734</background-color>
+    <highlight-background-color>#695E33</highlight-background-color>
+    <text-color>#C4B8FE</text-color>
+    <selected-text-color>#C4B8FE</selected-text-color>
+    <selection-color>#464257</selection-color>
+    <accent-color-one>#EEEBFF</accent-color-one>
+    <accent-color-two>#E49E58</accent-color-two>
+    <note-color>#6C6783</note-color>
+    <caret-color>#FFA852</caret-color>
+    <guide-color>#413D51</guide-color>
+    <expander-color>#6C6783</expander-color>
+    <markup-color>#6C6783</markup-color>
+</theme>
+
