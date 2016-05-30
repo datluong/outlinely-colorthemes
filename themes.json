@@ -50,7 +50,7 @@
   },
   {
     "Name": "DuoTone Light",
-    "File": "duotone-Light-theme.xml",
+    "File": "duotone-light-theme.xml",
     "Description": "A port of DuoTone Light theme for Atom editor",
     "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
