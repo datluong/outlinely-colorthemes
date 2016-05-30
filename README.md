@@ -11,3 +11,8 @@ This repository hosts some nice themes for [Outlinely](http://glamdevelopment.co
   - [Workflowy](http://glamdevelopment.com/outlinely/themes)
   - [DuoTone Dark](http://glamdevelopment.com/outlinely/themes/duotone-dark)
   - [DuoTone DarkSea](http://glamdevelopment.com/outlinely/themes/duotone-dark-sea)
+  - [DuoTone Light](http://glamdevelopment.com/outlinely/themes/duotone-light)
+
+## Credit
+
+  - [simurai](https://atom.io/users/simurai) for DuoTone themes.

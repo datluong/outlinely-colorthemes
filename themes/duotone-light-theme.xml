@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>DuoTone Light</name>
+    <type>light</type>
+    <background-color>#FAF8F5</background-color>
+    <highlight-background-color>#FADCA0</highlight-background-color>
+    <text-color>#896724</text-color>
+    <selection-color>#E5DCCC</selection-color>
+    <accent-color-one>#063289</accent-color-one>
+    <accent-color-two>#728FCB</accent-color-two>
+    <note-color>#B6AD9A</note-color>
+    <caret-color>#477EEB</caret-color>
+    <guide-color>#E9E1D3</guide-color>
+    <expander-color>#B6AD9A</expander-color>
+    <markup-color>#B6AD9A</markup-color>
+    <checkmark-color>#728FCB</checkmark-color>
+</theme>
+
+
