@@ -47,5 +47,12 @@
     "Description": "A port of DuoTone Dark Sea theme for Atom editor",
     "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
+  },
+  {
+    "Name": "DuoTone Light",
+    "File": "duotone-Light-theme.xml",
+    "Description": "A port of DuoTone Light theme for Atom editor",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
+    "Author": "Dat Luong"
   }
 ]
