@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>Cobalt2</name>
+    <type>dark</type>
+    <background-color>#193549</background-color>
+    <highlight-background-color>#6B6436</highlight-background-color>
+    <text-color>#FFFFFF</text-color>
+    <selection-color>#0050A4</selection-color>
+    <accent-color-one>#3AD900</accent-color-one>
+    <accent-color-two>#FF9D00</accent-color-two>
+    <note-color>#0088FF</note-color>
+    <caret-color>#FFC600</caret-color>
+    <guide-color>#3B5364</guide-color>
+    <expander-color>#5A7B92</expander-color>
+    <markup-color>#A1B8CC</markup-color>
+    <checkmark-color>#3AD900</checkmark-color>
+    <highlighting-rule>
+        <tags>important, high</tags>
+        <highlight-tag-color>#FF1E00</highlight-tag-color>
+    </highlighting-rule>
+</theme>
+

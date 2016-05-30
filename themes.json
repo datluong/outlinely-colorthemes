@@ -54,5 +54,12 @@
     "Description": "A port of DuoTone Light theme for Atom editor",
     "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
+  },
+  {
+    "Name": "Cobalt2",
+    "File": "cobalt2-theme.xml",
+    "Description": "Cobalt2 Sublime theme",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
+    "Author": "Dat Luong"
   }
 ]
