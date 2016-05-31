@@ -4,6 +4,7 @@
     <type>dark</type>
     <background-color>#193549</background-color>
     <highlight-background-color>#6B6436</highlight-background-color>
+    <search-background-color>#8B76F5</search-background-color>
     <text-color>#FFFFFF</text-color>
     <selection-color>#0050A4</selection-color>
     <accent-color-one>#3AD900</accent-color-one>
