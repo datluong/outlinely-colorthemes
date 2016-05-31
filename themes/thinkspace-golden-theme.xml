@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+    <name>Thinkspace Golden</name>
+    <type>light</type>
+    <background-color>#fbfbfb</background-color>
+    <text-color>#464646</text-color>
+    <selection-color>#F5E8B3</selection-color>
+    <accent-color-one>#E3BA24</accent-color-one>
+    <accent-color-two>#E3BA24</accent-color-two>
+    <note-color>#808080</note-color>
+    <caret-color>#FFA91F</caret-color>
+    <guide-color>#F2E5B1</guide-color>
+    <expander-color>#E3BA24</expander-color>
+    <markup-color>#E3BA24</markup-color>
+    <checkmark-color>#E3BA24</checkmark-color>
+</theme>
+
