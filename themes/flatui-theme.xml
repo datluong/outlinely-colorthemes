@@ -4,6 +4,7 @@
     <type>light</type>
     <background-color>#FFFFFF</background-color>
     <highlight-background-color>#F5DC7A</highlight-background-color>
+    <search-background-color>#FFEE05</search-background-color>
     <text-color>#34495E</text-color>
     <selection-color>#F1C40F</selection-color>
     <accent-color-one>#2980B9</accent-color-one>
