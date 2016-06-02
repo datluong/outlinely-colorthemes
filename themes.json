@@ -65,7 +65,7 @@
   {
     "Name": "Cobalt2",
     "File": "cobalt2-theme.xml",
-    "Description": "Cobalt2 Sublime theme",
+    "Description": "Cobalt2 Sublime theme, adapted to Outlinely",
     "Source": "https://github.com/datluong/outlinely-colorthemes",
     "Author": "Dat Luong"
   }
