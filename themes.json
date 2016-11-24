@@ -35,6 +35,13 @@
     "Author": "Dat Luong"
   },
   {
+    "Name": "Maestro",
+    "File": "maestro-theme.xml",
+    "Description": "Great dark theme with golden text from Outlinely for iOS",
+    "Source": "https://github.com/datluong/outlinely-colorthemes",
+    "Author": "Dat Luong"
+  },
+  {
     "Name": "Workflowy",
     "File": "workflowy-theme.xml",
     "Description": "A theme to match the look and feel of Workflowy",

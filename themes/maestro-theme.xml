@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+<name>Maestro</name>
+    <type>dark</type>
+    <background-color>hsb(0,0,16)</background-color>
+    <highlight-background-color>hsb(45,60,40)</highlight-background-color>
+    <text-color>hsb(0,0,85)</text-color>
+    <selection-color>hsb(45,60,40)</selection-color>
+    <accent-color-one>hsb(45,80,84)</accent-color-one>
+    <accent-color-two>hsb(45,80,84)</accent-color-two>
+    <note-color>hsb(0,0,61)</note-color>
+    <caret-color>hsb(45,88,84)</caret-color>
+    <guide-color>hsb(45,80,40)</guide-color>
+    <expander-color>hsb(45,80,84)</expander-color>
+    <markup-color>hsb(45,80,84)</markup-color>
+    <checkmark-color>hsb(45,80,84)</checkmark-color>
+</theme>
